@@ -1,1 +1,1 @@
-My second readme updated
+I am an ALX Student
